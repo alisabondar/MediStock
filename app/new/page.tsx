@@ -59,7 +59,7 @@ const postItem = async (data: FormData) => {
 
 const NewItem = () => {
   return (
-    <div className={styles.main}>
+    <div>
       <form action={postItem} className={styles.form}>
         <label>Product Name:
           <input type='text' name='name' />

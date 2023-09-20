@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import prisma from '../prisma/prisma'
 // import Item from './components/Item'
+import Image from 'next/image'
+import logo from './favicon.png'
 import styles from './page.module.css'
 
 const Home = async () => {
@@ -12,9 +14,14 @@ const Home = async () => {
   return (
     <div>
       <header className={styles.header}>
-        <Link href='/new' className=''>Add Item</Link>
+        <Image src={logo} width={140} height={140} alt='MediStock Pro Logo'/>
+        <div className={styles.title}>MediStock Pro</div>
         {/* <Cart /> */}
       </header>
+      <div className={styles.list}>
+        <h2>Current Inventory</h2>
+        <Link href='/new' className={styles.add}>Add Item</Link>
+      </div>
       <div className={styles.main}>
         <div className={styles.inventory}>
           {items.map(item => (
