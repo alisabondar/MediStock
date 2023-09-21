@@ -54,6 +54,8 @@
   text-align: center;
   text-decoration: none;
   transition: background-color 0.3s ease, color 0.3s ease;
+  float: right;
+  clear: none;
 }
 
 #buttonContainer {
@@ -111,11 +113,15 @@
 .card {
   padding: 1rem;
   width: 90%;
+  overflow: hidden;
 }
 
 .card span {
   display: block;
   transition: transform 200ms;
+  float: left;
+  clear: left;
+  width: 50%;
 }
 
 .card h2 {
@@ -124,8 +130,8 @@
 }
 
 .inventory {
-  max-height: 40rem;
-  overflow-y: auto;
+  max-height: 50rem;
+  overflow-y: scroll;
   width: 100%;
 }
 

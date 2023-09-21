@@ -21,7 +21,7 @@ model Vendor {
 model Item {
   id       Int    @id @default(autoincrement())
   name     String
-  price    Decimal @db.Decimal(6, 2)
+  price    Float
   par      Int
   vendor   Vendor @relation(fields: [vendorId], references: [id])
   vendorId Int
