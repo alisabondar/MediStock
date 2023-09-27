@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/alisabondar/MediStock">
-    <img src="/app/favicon.png" alt="Logo" width="120" height="120">
+    <img src="/app/favicon.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">MediStock Pro</h3>
@@ -29,33 +29,6 @@
     <a href="https://github.com/Wingardium-Levicode/blue-ocean">Request Feature</a>
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-         <li><a href="#requirements">Requirements</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -100,9 +73,12 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Overview:![Overview](https://github.com/alisabondar/MediStock/assets/126842393/68d3aadc-e028-44b7-8dd0-6bd79f66b1c0)
-Adding an Item:![Add](https://github.com/alisabondar/MediStock/assets/126842393/c5cc49b5-3775-4e83-9511-5e6b23f8a4d3)
-Site Responsiveness:![Responsive](https://github.com/alisabondar/MediStock/assets/126842393/5bca77ee-9b8c-41f0-8370-a14117130cfc)
+Overview:  
+![Overview](https://github.com/alisabondar/MediStock/assets/126842393/68d3aadc-e028-44b7-8dd0-6bd79f66b1c0)  
+Adding an Item:  
+![Add](https://github.com/alisabondar/MediStock/assets/126842393/c5cc49b5-3775-4e83-9511-5e6b23f8a4d3)  
+Site Responsiveness:  
+![Responsive](https://github.com/alisabondar/MediStock/assets/126842393/5bca77ee-9b8c-41f0-8370-a14117130cfc)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
