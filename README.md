@@ -13,8 +13,8 @@
 <div align="center">
   <a href="https://github.com/alisabondar/MediStock">
     <img src="/app/favicon.png" alt="Logo" width="100" height="100">
+    <h3 align="center">MediStock Pro</h3>
   </a>
-<h3 align="center">MediStock Pro</h3>
   <p align="center">
     Manage your medical inventory with MediStock Pro! See your current inventory, add more items, and add items to cart.
     <br />
