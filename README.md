@@ -15,15 +15,12 @@
   <a href="https://github.com/alisabondar/MediStock">
     <img src="/app/favicon.png" alt="Logo" width="300" height="300">
   </a>
-
 <h3 align="center">MediStock Pro</h3>
-
   <p align="center">
     Manage your medical inventory with MediStock Pro! See your current inventory, add more items, and add items to cart.
     <br />
     <br />
     <a href="https://github.com/Wingardium-Levicode/blue-oceane">Report Bug</a>
-    ·
     <a href="https://github.com/Wingardium-Levicode/blue-ocean">Request Feature</a>
   </p>
 </div>
