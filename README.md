@@ -12,14 +12,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Wingardium-Levicode/blue-ocean">
-    <img src="https://i.imgur.com/VrQhdwC.png" alt="Logo" width="120" height="120">
+  <a href="https://github.com/alisabondar/MediStock">
+    <img src="/app/favicon.png" alt="Logo" width="120" height="120">
   </a>
 
-<h3 align="center">BeanThere</h3>
+<h3 align="center">MediStock Pro</h3>
 
   <p align="center">
-    Discover the best local coffee shops, share your reviews, and connect with fellow coffee enthusiasts. With BeanThere, you can schedule coffee meetups, add coffee events to your calendar, and chat with friends about all things coffee. Join us and make your coffee journey more social and enjoyable. ☕
+    Manage your medical inventory with MediStock Pro! See your current inventory, add more items, and add items to cart.
     <br />
     <a href="https://github.com/Wingardium-Levicode/blue-ocean"><strong>Explore the docs »</strong></a>
     <br />
@@ -68,10 +68,10 @@
 ### Built With
 
 * [![Next][Next.js]][Next-url]
-* [![PostgreSQL][PostgreSQL.js]][PostgreSQL-url]
 * [![React][React.js]][React-url]
 * [![Node][Node.js]][Node-url]
 * [![Prisma][Prisma.js]][Prisma-url]
+* [![PostgreSQL][PostgreSQL.js]][PostgreSQL-url]
 * [![CSS3][CSS3.js]][CSS3-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
