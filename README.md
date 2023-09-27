@@ -103,16 +103,16 @@ See the [open issues](https://github.com/alisabondar/MediStock/issues) for a ful
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Wingardium-Levicode/blue-ocean.svg?style=for-the-badge
-[contributors-url]: https://github.com/Wingardium-Levicode/blue-ocean/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Wingardium-Levicode/blue-ocean.svg?style=for-the-badge
-[forks-url]: https://github.com/Wingardium-Levicode/blue-ocean/network/members
-[stars-shield]: https://img.shields.io/github/stars/Wingardium-Levicode/blue-ocean.svg?style=for-the-badge
-[stars-url]: https://github.com/Wingardium-Levicode/blue-ocean/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Wingardium-Levicode/blue-ocean.svg?style=for-the-badge
-[issues-url]: https://github.com/Wingardium-Levicode/blue-ocean/issues
-[license-shield]: https://img.shields.io/github/license/Wingardium-Levicode/blue-ocean.svg?style=for-the-badge
-[license-url]: https://github.com/Wingardium-Levicode/blue-ocean/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/alisabondar/MediStock.svg?style=for-the-badge
+[contributors-url]: https://github.com/alisabondar/MediStock/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/alisabondar/MediStock.svg?style=for-the-badge
+[forks-url]: https://github.com/alisabondar/MediStock/network/members
+[stars-shield]: https://img.shields.io/github/stars/alisabondar/MediStock.svg?style=for-the-badge
+[stars-url]: https://github.com/alisabondar/MediStock/stargazers
+[issues-shield]: https://img.shields.io/github/issues/alisabondar/MediStock.svg?style=for-the-badge
+[issues-url]: https://github.com/alisabondar/MediStock/issues
+[license-shield]: https://img.shields.io/github/license/alisabondar/MediStock.svg?style=for-the-badge
+[license-url]: https://github.com/alisabondar/MediStock/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
