@@ -10,7 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
   <a href="https://github.com/alisabondar/MediStock">
     <h3 align="center">MediStock Pro</h3>
   </a>
