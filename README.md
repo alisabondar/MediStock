@@ -10,7 +10,6 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/alisabondar/MediStock">
     <img src="/app/favicon.png" alt="Logo" width="300" height="300">
