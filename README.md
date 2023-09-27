@@ -10,10 +10,10 @@
 
 
 <!-- PROJECT LOGO -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
-  <a href="https://github.com/alisabondar/MediStock" style="display: flex; align-items: center; text-decoration: none;">
+<div align="center">
+  <a href="https://github.com/alisabondar/MediStock">
     <img src="/app/favicon.png" alt="Logo" width="100" height="100">
-    <h3 align="center" style="margin-left: 10;">MediStock Pro</h3>
+    <h3 align="center">MediStock Pro</h3>
   </a>
   <p align="center">
     Manage your medical inventory with MediStock Pro! See your current inventory, add more items, and add items to cart.
