@@ -71,6 +71,8 @@ Overview:
 ![Overview](https://github.com/alisabondar/MediStock/assets/126842393/3c3f5bc4-f23c-4072-b4a2-174a595229fc)  
 Adding an Item:    
 ![Add](https://github.com/alisabondar/MediStock/assets/126842393/d50ea47d-2e79-43d3-99b8-9c5f504c174e)  
+![Kapture 2023-09-27 at 18 44 08](https://github.com/alisabondar/MediStock/assets/126842393/c6f6505e-fc29-428c-860e-f353947fb55d)
+
 Site Responsiveness:    
 ![Responsive](https://github.com/alisabondar/MediStock/assets/126842393/5bca77ee-9b8c-41f0-8370-a14117130cfc)  
 
