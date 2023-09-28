@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/alisabondar/MediStock">
-    <img src="/app/logo.png" alt="Logo" width="50" height="50">
+    <img src="/app/logo.png" alt="Logo" width="100" height="100">
     <h3 align="center">MediStock Pro</h3>
   </a>
   <p align="center">
