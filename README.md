@@ -67,6 +67,20 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+<div align="center">
+  <a>
+    <h3 align="center">Overview</h3>
+    <img src="/assets/126842393/68d3aadc-e028-44b7-8dd0-6bd79f66b1c0" alt="Logo" width="100" height="100">
+  </a>
+  <a>
+    <h3 align="center">Adding an item:</h3>
+    <img src="/assets/126842393/c5cc49b5-3775-4e83-9511-5e6b23f8a4d3" alt="Logo" width="100" height="100">
+  </a>
+  <a>
+    <h3 align="center">Site responsiveness:</h3>
+    <img src="/assets/126842393/5bca77ee-9b8c-41f0-8370-a14117130cfc" alt="Logo" width="100" height="100">
+  </a>
+</div>
 Overview:  
 ![Overview](https://github.com/alisabondar/MediStock/assets/126842393/68d3aadc-e028-44b7-8dd0-6bd79f66b1c0=100x)  
 Adding an Item:  
