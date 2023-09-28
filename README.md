@@ -69,9 +69,9 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 ## Usage
 Overview:  
 ![Overview](https://github.com/alisabondar/MediStock/assets/126842393/3c3f5bc4-f23c-4072-b4a2-174a595229fc)
-Adding an Item:  
+Adding an Item:    
 ![Add](https://github.com/alisabondar/MediStock/assets/126842393/d50ea47d-2e79-43d3-99b8-9c5f504c174e)
-Site Responsiveness:  
+Site Responsiveness:    
 ![Responsive](https://github.com/alisabondar/MediStock/assets/126842393/5bca77ee-9b8c-41f0-8370-a14117130cfc)
 
 
